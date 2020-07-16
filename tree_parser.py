@@ -1,5 +1,5 @@
 """
-Programming assignment - Job Application for Enspired
+TreeParser - count the number of trees in a ascii map of a garden
 @author: Giuseppe Minardi
 @date: 15/07/2020
 """
